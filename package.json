@@ -1,0 +1,17 @@
+{
+  "name": "chat-corpus-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "faker": "^3.0.0",
+    "knuth-shuffle": "^1.0.1",
+    "random-words": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
